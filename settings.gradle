@@ -1,0 +1,5 @@
+rootProject.name = 'moduletest'
+include 'api'
+include 'batch'
+include 'core'
+
